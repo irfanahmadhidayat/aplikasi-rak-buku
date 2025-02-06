@@ -42,3 +42,5 @@ Aplikasi Rak Buku adalah aplikasi sederhana berbasis web yang digunakan untuk me
 
 ## Sumber Proyek
 Proyek ini dikembangkan dengan bantuan materi dan bimbingan dari Dicoding. Terima kasih kepada Dicoding atas materi dan bimbingannya yang luar biasa. Proyek ini tidak akan terwujud tanpa ilmu dan sumber daya yang telah disediakan.
+
+https://www.dicoding.com/
